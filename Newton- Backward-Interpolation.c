@@ -72,3 +72,4 @@ int main() {
     printf("\nEstimated premium for policy maturity at age %.2lf: %.2lf RS\n", xi, result);
 
     return 0;
+}
